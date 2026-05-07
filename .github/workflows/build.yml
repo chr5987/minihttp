@@ -31,4 +31,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ghcr.io/miaadev/minihttp:latest
+        tags: ghcr.io/chr5987/minihttp:latest
